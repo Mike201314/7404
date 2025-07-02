@@ -12,6 +12,3 @@ This project implements an **optimal decision tree learning algorithm** based on
 
 ## RUN
 In Terminal, run the command python demo.py
-
-
-# 7404
