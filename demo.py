@@ -170,7 +170,7 @@ def main():
     print(f"Examples: {sum(len(cd) for cd in data.data)}\n")
 
 
-    n_runs = 20
+    n_runs = 100
 
     algorithms = [
         ("Our_DT_size", {"min_depth": 1, "minimize_nodes": True}),
