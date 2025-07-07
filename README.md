@@ -65,3 +65,24 @@ Use `TreeVisualizer` to render or export trees:
 ## Requirements
 
 See `requirements.txt` 
+
+## Reference
+1. python-sat (pysat)
+   - Used in: src/sat_encoder.py
+2. pandas
+   - Used in: src/data_loader.py
+3. numpy
+   - Used throughout the project
+4. graphviz (for visualization)
+   - Used in: src/visualizer.py
+  
+- 1. Narodytska, N., Ignatiev, A., Pereira, F., & Marques-Silva, J. (2018). 
+   "Learning Optimal Decision Trees with SAT." 
+   Proceedings of the 27th International Joint Conference on Artificial 
+   Intelligence (IJCAI-18), pp. 1362-1368.
+   DOI: 10.24963/ijcai.2018/189
+
+-2. Schidler, A., & Szeider, S. (2021). 
+   "SAT-based Decision Tree Learning for Large Data Sets." 
+   Proceedings of the AAAI Conference on Artificial Intelligence, 35(5), 3904-3912.
+   DOI: 10.1609/aaai.v35i5.16509
